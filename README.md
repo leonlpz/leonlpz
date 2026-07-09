@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:7c3aed&text=Leonardo%20L%C3%B3pez%20Ortiz&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=44&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20%7C%20Biomedical%20AI%20Researcher&descAlign=50&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:7c3aed&text=Leonardo%20L%C3%B3pez%20Ortiz&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=44&desc=STEM%20Educator%20%7C%20Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20%7C%20Biomedical%20AI%20Researcher&descAlign=50&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI%2FML+systems+for+biomedical+signals;Probabilistic+modeling+%7C+RKHS+embeddings+%7C+HMM-GMM;Python+%7C+SQL+%7C+Scientific+Computing+%7C+Applied+AI;Research-driven+engineering+for+interpretable+machine+learning" alt="Typing SVG" />
 
@@ -49,6 +49,7 @@ I specialize in **machine learning for complex biomedical data**, including EEG 
 
 **Open To**
 
+- Teach Advance and Basic STEM Courses
 - Data Scientist roles  
 - Machine Learning Engineer roles  
 - Applied AI / Biomedical AI research projects  
@@ -303,11 +304,11 @@ Academic teaching experience in mathematics, physics, and technical STEM trainin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonlpz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonlpz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=leonlpz&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
+<img height="180em" src="https://streak-stats.demolab.com?user=leonlpz&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideNums=E5E7EB&currStreakNum=E5E7EB&dates=9CA3AF" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonlpz&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonlpz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
 
 </div>
 
@@ -317,7 +318,7 @@ Academic teaching experience in mathematics, physics, and technical STEM trainin
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=leonlpz&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=leonlpz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" />
 
 </div>
 
@@ -367,6 +368,7 @@ Exploring:
   - Applied AI for healthcare and decision support
 
 Open To:
+  - Teach Advance and Basic STEM Courses
   - Data Scientist roles
   - Machine Learning Engineer roles
   - Biomedical AI collaborations
