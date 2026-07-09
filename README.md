@@ -300,30 +300,6 @@ Academic teaching experience in mathematics, physics, and technical STEM trainin
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonlpz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" />
-
-<img height="180em" src="https://streak-stats.demolab.com?user=leonlpz&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideNums=E5E7EB&currStreakNum=E5E7EB&dates=9CA3AF" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonlpz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=leonlpz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
